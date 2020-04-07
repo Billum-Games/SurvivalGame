@@ -1543,4 +1543,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.07-08.58.56:524][839]AssetCheck: New page: Asset Save: multiple assets
 [2020.04.07-08.58.56:524][839]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.04.07-08.58.56:524][839]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+
 >>>>>>> parent of 1366f79... update 002
