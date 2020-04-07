@@ -620,3 +620,41 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.07-08.58.56:524][839]AssetCheck: New page: Asset Save: multiple assets
 [2020.04.07-08.58.56:524][839]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.04.07-08.58.56:524][839]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.04.07-09.09.14:148][276]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.07-09.09.14:149][276]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.07-09.09.46:887][531]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.04.07-09.09.46:889][531]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.032
+[2020.04.07-09.13.09:188][ 30]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.07-09.14.17:221][200]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/GameMap.GameMap
+[2020.04.07-09.14.17:275][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.04.07-09.14.18:755][200]LogSlate: Window 'Save Content' being destroyed
+[2020.04.07-09.14.18:768][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.07-09.14.18:859][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.04.07-09.14.18:864][200]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/GameMapBE69B11F48BBD4AEC39A10989A4F1527.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Maps/GameMap.umap'
+[2020.04.07-09.14.18:865][200]LogFileHelpers: Saving map 'GameMap' took 0.098
+[2020.04.07-09.14.18:890][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.04.07-09.14.18:894][200]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/MainMenu4AFBD8484A7EAF4CE99467AC675DA17A.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Maps/MainMenu.umap'
+[2020.04.07-09.14.18:895][200]LogFileHelpers: Saving map 'MainMenu' took 0.029
+[2020.04.07-09.14.18:896][200]Cmd: MAP LOAD FILE="../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Maps/GameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.07-09.14.18:896][200]LightingResults: New page: Lighting Build
+[2020.04.07-09.14.18:897][200]LoadErrors: New page: Loading map: GameMap.umap
+[2020.04.07-09.14.18:898][200]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-09.14.18:898][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-09.14.18:898][200]MapCheck: New page: Map Check
+[2020.04.07-09.14.18:898][200]LightingResults: New page: Lighting Build
+[2020.04.07-09.14.18:929][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.04.07-09.14.18:956][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.04.07-09.14.18:983][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.04.07-09.14.19:092][200]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.07-09.14.19:092][200]LogAIModule: Creating AISystem for world GameMap
+[2020.04.07-09.14.19:182][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.04.07-09.14.19:204][200]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.07-09.14.19:206][200]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,173ms to complete.
+[2020.04.07-09.14.19:206][200]LogFileHelpers: Loading map 'GameMap' took 0.311
+[2020.04.07-09.14.19:267][200]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.07-09.14.19:267][200]LogContentValidation: Display: Validating World /Game/Maps/GameMap.GameMap
+[2020.04.07-09.14.19:267][200]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2020.04.07-09.14.19:270][200]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.07-09.15.42:306][761]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/MainMenu/MenuWidget.MenuWidget
+[2020.04.07-09.15.48:682][761]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 121 classes and 0 folders.
+[2020.04.07-09.16.13:408][761]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
