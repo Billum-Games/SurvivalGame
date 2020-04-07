@@ -163,7 +163,6 @@ LogInit: Presizing for max 25165824 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-<<<<<<< HEAD
 [2020.04.07-09.21.10:770][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.04.07-09.21.10:770][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.04.07-09.21.10:770][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ilmir/Desktop/Mark/Проект/SurvivalGame/Survival_Forest/Saved/Config/Windows/Engine.ini]
@@ -1085,6 +1084,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.07-09.34.01:984][202]LogD3D11RHI: CleanupD3DDevice
 [2020.04.07-09.34.02:092][202]LogExit: Exiting.
 [2020.04.07-09.34.02:119][202]Log file closed, 04/07/20 14:34:02
+<<<<<<< HEAD
 =======
 [2020.04.07-08.56.33:788][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.04.07-08.56.33:788][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -1543,10 +1543,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.07-08.58.56:524][839]AssetCheck: New page: Asset Save: multiple assets
 [2020.04.07-08.58.56:524][839]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.04.07-08.58.56:524][839]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
->>>>>>> parent of 1366f79... update 002
-=======
->>>>>>> parent of 1366f79... update 002
