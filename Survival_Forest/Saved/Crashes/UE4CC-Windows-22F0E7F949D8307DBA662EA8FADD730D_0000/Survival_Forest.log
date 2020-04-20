@@ -1,0 +1,940 @@
+﻿Log file open, 04/18/20 18:22:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Survival_Forest
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.077933
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 7 (Service Pack 1), CPU:         Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 750
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.18-13.22.22:669][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.18-13.22.22:669][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.18-13.22.22:669][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Engine.ini]
+[2020.04.18-13.22.22:669][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.18-13.22.22:669][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Engine.ini]
+[2020.04.18-13.22.22:669][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Engine.ini]
+[2020.04.18-13.22.22:669][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.18-13.22.22:669][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Engine.ini]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.18-13.22.22:670][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Engine.ini]
+[2020.04.18-13.22.22:670][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Engine.ini]
+[2020.04.18-13.22.22:672][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.18-13.22.22:672][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.18-13.22.22:673][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.18-13.22.22:673][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.18-13.22.22:673][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.18-13.22.22:676][  0]LogHAL: Display: Platform has ~ 8 GB [8533483520 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.18-13.22.22:676][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.18-13.22.22:676][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.18-13.22.22:676][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Scalability.ini]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.18-13.22.22:677][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.18-13.22.22:678][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.18-13.22.22:678][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.18-13.22.22:678][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Config/Windows/Engine.ini]
+[2020.04.18-13.22.22:678][  0]LogInit: Computer: HOME7
+[2020.04.18-13.22.22:678][  0]LogInit: User: Богдан
+[2020.04.18-13.22.22:678][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.18-13.22.22:678][  0]LogInit: High frequency timer resolution =3.312822 MHz
+[2020.04.18-13.22.22:678][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.04.18-13.22.22:678][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.18-13.22.22:678][  0]LogMemory: Process Physical Memory: 105.95 MB used, 105.95 MB peak
+[2020.04.18-13.22.22:678][  0]LogMemory: Process Virtual Memory: 103.13 MB used, 103.13 MB peak
+[2020.04.18-13.22.22:678][  0]LogMemory: Physical Memory: 4243.45 MB used,  3894.71 MB free, 8138.16 MB total
+[2020.04.18-13.22.22:678][  0]LogMemory: Virtual Memory: 1011.29 MB used,  8387596.50 MB free, 8388608.00 MB total
+[2020.04.18-13.22.22:692][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.18-13.22.22:711][  0]LogInit: Using OS detected language (ru-RU).
+[2020.04.18-13.22.22:711][  0]LogInit: Using OS detected locale (ru-RU).
+[2020.04.18-13.22.22:712][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2020.04.18-13.22.22:712][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2020.04.18-13.22.22:712][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2020.04.18-13.22.22:712][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2020.04.18-13.22.22:712][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2020.04.18-13.22.22:712][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2020.04.18-13.22.22:713][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2020.04.18-13.22.22:713][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2020.04.18-13.22.22:714][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2020.04.18-13.22.22:714][  0]LogWindows: File 'shcore.dll' does not exist
+[2020.04.18-13.22.22:714][  0]LogInit: Setting process to DPI aware
+[2020.04.18-13.22.22:737][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.18-13.22.22:737][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.18-13.22.22:870][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.18-13.22.22:870][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.18-13.22.22:870][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.18-13.22.22:870][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.18-13.22.22:911][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750' (Feature Level 11_0)
+[2020.04.18-13.22.22:911][  0]LogD3D11RHI:       963/0/3072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.18-13.22.22:911][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.18-13.22.22:915][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.18-13.22.22:916][  0]LogD3D11RHI:     GPU DeviceId: 0x1381 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.18-13.22.22:916][  0]LogWindows: EnumDisplayDevices:
+[2020.04.18-13.22.22:916][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750' (P:1 D:1)
+[2020.04.18-13.22.22:916][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750' (P:0 D:0)
+[2020.04.18-13.22.22:917][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750' (P:0 D:0)
+[2020.04.18-13.22.22:917][  0]LogWindows:    3. 'RDPDD Chained DD' (P:0 D:0)
+[2020.04.18-13.22.22:917][  0]LogWindows:    4. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2020.04.18-13.22.22:917][  0]LogWindows:    5. 'RDP Reflector Display Driver' (P:0 D:0)
+[2020.04.18-13.22.22:918][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:3 
+[2020.04.18-13.22.22:918][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750
+[2020.04.18-13.22.22:918][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.04.18-13.22.22:918][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.04.18-13.22.22:918][  0]LogRHI: Texture pool is 674 MB (70% of 963 MB)
+[2020.04.18-13.22.22:939][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.18-13.22.22:939][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.18-13.22.22:959][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.04.18-13.22.23:307][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.18-13.22.23:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.18-13.22.23:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.18-13.22.23:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.18-13.22.23:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.18-13.22.23:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.18-13.22.23:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.18-13.22.23:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.18-13.22.23:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.18-13.22.23:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.18-13.22.23:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.18-13.22.23:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.18-13.22.23:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.18-13.22.23:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.18-13.22.23:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.18-13.22.23:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.18-13.22.23:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.18-13.22.23:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.18-13.22.23:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.18-13.22.23:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.18-13.22.23:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.18-13.22.23:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.18-13.22.23:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.18-13.22.23:381][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.18-13.22.23:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.18-13.22.23:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.18-13.22.23:404][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.18-13.22.23:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.18-13.22.23:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.18-13.22.23:445][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.18-13.22.23:445][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.18-13.22.23:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.18-13.22.23:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.18-13.22.23:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.18-13.22.23:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.18-13.22.23:476][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.18-13.22.23:478][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.18-13.22.23:496][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Intermediate/Shaders/WorkingDirectory/236/).
+[2020.04.18-13.22.23:496][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Богдан/AppData/Local/Temp/UnrealShaderWorkingDir/5A00297C46AA3088C5EE9AB83E823B4A/'.
+[2020.04.18-13.22.23:497][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.18-13.22.23:497][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.18-13.22.23:497][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.18-13.22.24:280][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.18-13.22.24:348][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Богдан/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.18-13.22.24:348][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Богдан/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.18-13.22.24:349][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.18-13.22.24:349][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.18-13.22.24:349][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.18-13.22.24:349][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.18-13.22.24:359][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.18-13.22.24:359][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.18-13.22.24:359][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.18-13.22.24:360][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Богдан/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.18-13.22.24:360][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.18-13.22.24:360][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.18-13.22.24:389][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.18-13.22.24:392][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.18-13.22.24:393][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.18-13.22.24:445][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2020.04.18-13.22.24:789][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.18-13.22.24:972][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.18-13.22.24:972][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.18-13.22.24:972][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.18-13.22.24:972][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.18-13.22.24:972][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.18-13.22.24:986][  0]LogNetVersion: Survival_Forest 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 142842722)
+[2020.04.18-13.22.27:942][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 1.016132 seconds
+[2020.04.18-13.22.27:951][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.18-13.22.27:951][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.18-13.22.27:951][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.18-13.22.28:510][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.18-13.22.28:513][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.18-13.22.28:571][  0]SourceControl: Source control is disabled
+[2020.04.18-13.22.28:571][  0]SourceControl: Source control is disabled
+[2020.04.18-13.22.28:575][  0]SourceControl: Source control is disabled
+[2020.04.18-13.22.28:576][  0]SourceControl: Source control is disabled
+[2020.04.18-13.22.28:576][  0]SourceControl: Source control is disabled
+[2020.04.18-13.22.28:706][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.18-13.22.28:718][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.18-13.22.28:718][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.18-13.22.28:823][  0]LogOcInput: OculusInput pre-init called
+[2020.04.18-13.22.28:830][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.18-13.22.28:830][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.18-13.22.28:908][  0]LogEngine: Initializing Engine...
+[2020.04.18-13.22.28:909][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.18-13.22.28:910][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.18-13.22.29:417][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.18-13.22.29:424][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.18-13.22.29:438][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.18-13.22.29:438][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.18-13.22.29:438][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.18-13.22.29:438][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.18-13.22.29:438][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.18-13.22.29:438][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.18-13.22.29:438][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.18-13.22.29:438][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.18-13.22.29:438][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.18-13.22.29:438][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.18-13.22.29:451][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.18-13.22.29:451][  0]LogAudioMixer: Display: Name: Динамики (Realtek High Definition Audio)
+[2020.04.18-13.22.29:451][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.18-13.22.29:451][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.18-13.22.29:451][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.18-13.22.29:451][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.18-13.22.29:451][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.18-13.22.29:451][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.18-13.22.29:451][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.18-13.22.29:473][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.04.18-13.22.29:477][  0]LogInit: FAudioDevice initialized.
+[2020.04.18-13.22.29:478][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.18-13.23.14:483][  0]LogDerivedDataCache: Saved boot cache 45.00s 78MB C:/Users/Богдан/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.18-13.23.14:484][  0]LogInit: Texture streaming: Enabled
+[2020.04.18-13.23.14:502][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.18-13.23.14:502][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.18-13.23.14:509][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.18-13.23.14:831][  0]LogInit: Transaction tracking system initialized
+[2020.04.18-13.23.14:843][  0]BlueprintLog: New page: Editor Load
+[2020.04.18-13.23.14:880][  0]LocalizationService: Localization service is disabled
+[2020.04.18-13.23.15:302][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/' took 0.01s
+[2020.04.18-13.23.15:302][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.18-13.23.15:302][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.18-13.23.15:966][  0]SourceControl: Source control is disabled
+[2020.04.18-13.23.16:171][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.18-13.50.19:978][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.04.18-13.50.20:034][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.18-13.50.21:634][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2020.04.18-13.50.21:663][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.18-13.50.21:664][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Lvls/GameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.18-13.50.21:687][  0]LightingResults: New page: Lighting Build
+[2020.04.18-13.50.21:689][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.18-13.50.21:689][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.18-13.50.21:689][  0]MapCheck: New page: Map Check
+[2020.04.18-13.50.21:689][  0]LightingResults: New page: Lighting Build
+[2020.04.18-13.50.21:724][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.04.18-13.50.21:745][  0]LogAIModule: Creating AISystem for world GameMap
+[2020.04.18-13.50.21:746][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.18-13.50.21:771][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.04.18-13.50.21:771][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.18-13.50.21:771][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,147ms to complete.
+[2020.04.18-13.50.21:771][  0]LogFileHelpers: Loading map 'GameMap' took 0.107
+[2020.04.18-13.50.22:338][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.18-13.50.22:354][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.18-13.50.22:368][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.18-13.50.22:377][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.18-13.50.22:468][  0]LogCollectionManager: Loaded 0 collections in 0.002335 seconds
+[2020.04.18-13.50.22:948][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Collections/' took 0.00s
+[2020.04.18-13.50.22:948][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Developers/Богдан/Collections/' took 0.00s
+[2020.04.18-13.50.22:948][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Collections/' took 0.00s
+[2020.04.18-13.50.22:948][  0]LogContentBrowser: Native class hierarchy populated in 0.0327 seconds. Added 3015 classes and 717 folders.
+[2020.04.18-13.50.22:986][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.18-13.50.25:196][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.18-13.50.25:627][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.04.18-13.50.26:050][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.18-13.50.26:074][  0]LogSlate: Took 0.021523 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.18-13.50.26:449][  0]LogRenderer: Reallocating scene render targets to support 1520x672 Format 10 NumSamples 1 (Frame:1).
+[2020.04.18-13.50.26:709][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.18-13.50.26:709][  0]LogLoad: (Engine Initialization) Total time: 1685.87 seconds
+[2020.04.18-13.50.26:709][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.18-13.50.26:839][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.18-13.50.27:738][ 11]LogAssetRegistry: Asset discovery search completed in 1683.2768 seconds
+[2020.04.18-13.50.27:743][ 11]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2020.04.18-13.50.28:450][ 13]LogSlate: Took 0.073508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.18-13.50.31:071][ 21]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.18-13.59.27:017][624]LogHttp: Warning: 000000008FB13740: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B414A382E-4DFB-2F80-AF54-818BB7494B20%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=03ca4a264427f87e9c1c818cb8eb7056%7Cdeb4b5c032ee4b9f9a98b57b23cc1299%7C78cf3706-c82f-4c9a-ab7b-9bc9ad3207ba&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.04.18-13.59.27:017][624]LogHttp: Warning: 000000008FB13740: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.04.18-13.59.27:017][624]LogHttp: Warning: 000000008FB13740: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20bb7f70 [can pipeline])
+[2020.04.18-13.59.27:017][624]LogHttp: Warning: 000000008FB13740: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2020.04.18-13.59.27:017][624]LogHttp: Warning: 000000008FB13740: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (23.22.31.114) port 443 (#3))
+[2020.04.18-13.59.27:017][624]LogHttp: Warning: 000000008FB13740: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.04.18-13.59.27:017][624]LogHttp: Warning: 000000008FB13740: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10053)
+[2020.04.18-13.59.27:018][624]LogHttp: Warning: 000000008FB13740: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.04.18-13.59.27:018][624]LogHttp: Warning: 000000008FB13740: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.04.18-13.59.27:018][624]LogHttp: Warning: 000000008FB13740: libcurl info message cache 7 (Closing connection 3)
+[2020.04.18-13.59.27:018][624]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B414A382E-4DFB-2F80-AF54-818BB7494B20%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=03ca4a264427f87e9c1c818cb8eb7056%7Cdeb4b5c032ee4b9f9a98b57b23cc1299%7C78cf3706-c82f-4c9a-ab7b-9bc9ad3207ba&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.18-14.16.32:096][946]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Inventory/Widgets/TakeItemWidget.TakeItemWidget_C:ItemInfo'. Unknown structure.
+[2020.04.18-14.16.32:096][946]LogClass: Warning: Property ItemInfo of ItemInfo has a struct type mismatch (tag STRUCT_REINST_S_ItemInfo_0 != prop FallbackStruct) in package:  ../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Blueprints/Inventory/Widgets/TakeItemWidget.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.04.18-14.16.34:088][946]LogClass: Warning: Property ItemInfo of ItemInfo has a struct type mismatch (tag FallbackStruct != prop S_ItemInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.04.18-14.16.39:020][946]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.18-14.16.39:041][946]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.04.18-14.16.39:108][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.04.18-14.16.39:109][946]Cmd: MAP LOAD FILE="../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.18-14.16.39:110][946]LightingResults: New page: Lighting Build
+[2020.04.18-14.16.39:111][946]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.04.18-14.16.39:111][946]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.18-14.16.39:111][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.18-14.16.39:111][946]MapCheck: New page: Map Check
+[2020.04.18-14.16.39:111][946]LightingResults: New page: Lighting Build
+[2020.04.18-14.16.39:137][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.04.18-14.16.39:390][946]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.18-14.16.39:418][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.04.18-14.16.39:468][946]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.18-14.16.39:469][946]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,109ms to complete.
+[2020.04.18-14.16.39:469][946]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.360
+[2020.04.18-14.16.46:915][153]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Inventory/ItemClasses/BP_Chest.BP_Chest
+[2020.04.18-14.16.47:440][153]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.04.18-14.16.49:339][153]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.18-14.16.58:051][676]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Inventory/BP_Storage.BP_Storage
+[2020.04.18-14.16.59:864][738]LogSlate: Took 0.011703 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.18-14.19.12:995][ 44]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.18-14.20.37:394][403]LogEditorTransaction: Undo Paste clipboard contents
+[2020.04.18-14.20.44:299][901]LogEditorTransaction: Undo Paste clipboard contents
+[2020.04.18-14.21.34:356][994]BlueprintLog: New page: Compile BP_Storage
+[2020.04.18-14.21.34:838][994]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2020.04.18-14.21.46:297][647]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/BP_Storage64B47EB64CF8F2BB9B9898B431BE1630.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Blueprints/Inventory/BP_Storage.uasset'
+[2020.04.18-14.21.46:316][647]AssetCheck: New page: Asset Save: BP_Storage
+[2020.04.18-14.21.46:316][647]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Inventory/BP_Storage.BP_Storage
+[2020.04.18-14.21.48:476][771]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Inventory/BP_Inventory.BP_Inventory
+[2020.04.18-14.22.22:976][237]LogSlate: Took 0.010538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.18-14.24.01:571][293]BlueprintLog: New page: Compile BP_Inventory
+[2020.04.18-14.24.01:694][293]LogBlueprint: Error: [Compiler BP_Inventory] Variable node  Get Slots  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.04.18-14.24.01:694][293]LogBlueprint: Error: [Compiler BP_Inventory] Variable node  Get Slots  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.04.18-14.24.02:126][293]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2020.04.18-14.24.14:540][150]LogEditorTransaction: Undo Add Node
+[2020.04.18-14.24.52:313][811]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.18-14.26.30:916][636]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2020.04.18-14.26.30:917][636]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.057
+[2020.04.18-14.26.30:918][636]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inventory/BP_Inventory] ([1] browsable assets)...
+[2020.04.18-14.26.30:918][636]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventory/BP_Inventory]
+[2020.04.18-14.26.31:131][636]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/BP_Inventory_Auto14817D3014D1463D2505F55B7965B3762.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Autosaves/Game/Blueprints/Inventory/BP_Inventory_Auto1.uasset'
+[2020.04.18-14.26.31:133][636]LogFileHelpers: Auto-saving content packages took 0.215
+[2020.04.18-14.33.00:024][467]BlueprintLog: New page: Compile BP_Inventory
+[2020.04.18-14.33.00:522][467]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.04.18-14.34.00:655][753]BlueprintLog: New page: Compile BP_Inventory
+[2020.04.18-14.34.01:105][753]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.04.18-14.36.31:700][312]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.04.18-14.36.31:702][312]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.057
+[2020.04.18-14.36.31:702][312]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inventory/BP_Inventory] ([1] browsable assets)...
+[2020.04.18-14.36.31:702][312]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventory/BP_Inventory]
+[2020.04.18-14.36.31:917][312]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/BP_Inventory_Auto2BC70C7D64AEE67153E3817A5F85CA315.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Autosaves/Game/Blueprints/Inventory/BP_Inventory_Auto2.uasset'
+[2020.04.18-14.36.31:919][312]LogFileHelpers: Auto-saving content packages took 0.217
+[2020.04.18-14.47.05:276][601]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.18-14.47.49:115][787]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.04.18-14.47.49:117][787]LogMetaData: Removing '/Game/Blueprints/Inventory/DragAndDrop/StorageSlotDrag.SKEL_StorageSlotDrag_C' ref from Metadata '/Game/Blueprints/Inventory/DragAndDrop/NewBlueprint.PackageMetaData'
+[2020.04.18-14.47.49:117][787]LogMetaData: Removing '/Game/Blueprints/Inventory/DragAndDrop/StorageSlotDrag.StorageSlotDrag_C' ref from Metadata '/Game/Blueprints/Inventory/DragAndDrop/NewBlueprint.PackageMetaData'
+[2020.04.18-14.47.49:174][787]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/StorageSlotDragBC38FE4E47D713B5886AD6B0FE90F2B7.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Blueprints/Inventory/DragAndDrop/StorageSlotDrag.uasset'
+[2020.04.18-14.47.49:425][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.04.18-14.47.49:470][787]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.04.18-14.47.49:508][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.04.18-14.47.49:669][787]AssetCheck: New page: Asset Save: StorageSlotDrag
+[2020.04.18-14.47.49:669][787]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Inventory/DragAndDrop/StorageSlotDrag.StorageSlotDrag
+[2020.04.18-14.47.53:188][ 18]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Inventory/DragAndDrop/StorageSlotDrag.StorageSlotDrag
+[2020.04.18-14.48.17:529][705]BlueprintLog: New page: Compile StorageSlotDrag
+[2020.04.18-14.48.17:592][705]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2020.04.18-14.48.18:363][750]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/StorageSlotDrag085E7A654A49310A39984995D91AFF8B.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Blueprints/Inventory/DragAndDrop/StorageSlotDrag.uasset'
+[2020.04.18-14.48.18:382][750]AssetCheck: New page: Asset Save: StorageSlotDrag
+[2020.04.18-14.48.18:383][750]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Inventory/DragAndDrop/StorageSlotDrag.StorageSlotDrag
+[2020.04.18-14.48.19:213][797]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.04.18-14.48.19:213][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.18-14.48.20:177][843]BlueprintLog: New page: Compile BP_Inventory
+[2020.04.18-14.48.20:648][843]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.04.18-14.48.21:449][872]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/BP_Inventory39D28143454B5AC7B0CE8AADC4242B05.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Blueprints/Inventory/BP_Inventory.uasset'
+[2020.04.18-14.48.21:463][872]AssetCheck: New page: Asset Save: BP_Inventory
+[2020.04.18-14.48.21:463][872]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Inventory/BP_Inventory.BP_Inventory
+[2020.04.18-14.48.22:585][939]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.04.18-14.48.22:585][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.18-14.49.12:839][464]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.04.18-14.49.13:209][464]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/ThirdPersonExampleMap_Auto3EB054630403CDB03337BB2A3C91BE9C6.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2020.04.18-14.49.13:213][464]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.434
+[2020.04.18-14.49.13:213][464]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.434
+[2020.04.18-14.49.13:236][464]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Inventory/ItemClasses/BP_Chest] ([1] browsable assets)...
+[2020.04.18-14.49.13:354][464]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Inventory/ItemClasses/BP_Chest.BP_Chest]
+[2020.04.18-14.49.13:354][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventory/ItemClasses/BP_Chest]
+[2020.04.18-14.49.13:384][464]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/BP_Chest_Auto32FB413704D39A1370F8168B82AD9653F.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Autosaves/Game/Blueprints/Inventory/ItemClasses/BP_Chest_Auto3.uasset'
+[2020.04.18-14.49.13:418][464]LogFileHelpers: Auto-saving content packages took 0.205
+[2020.04.18-14.50.26:023][773]BlueprintLog: New page: Compile BP_Chest
+[2020.04.18-14.50.26:331][773]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.04.18-14.50.28:121][848]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/BP_ChestCA5762C44F4B82B490E1BFA4D5DD54D9.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Blueprints/Inventory/ItemClasses/BP_Chest.uasset'
+[2020.04.18-14.50.28:134][848]AssetCheck: New page: Asset Save: BP_Chest
+[2020.04.18-14.50.28:134][848]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Inventory/ItemClasses/BP_Chest.BP_Chest
+[2020.04.18-14.50.38:926][556]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Inventory/Widgets/Storage/StorageWidget.StorageWidget
+[2020.04.18-14.51.09:364][388]BlueprintLog: New page: Compile StorageWidget
+[2020.04.18-14.51.09:775][388]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2020.04.18-14.58.42:225][938]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Inventory/Widgets/Storage/StorageSlot.StorageSlot
+[2020.04.18-14.59.37:026][960]BlueprintLog: New page: Compile StorageSlot
+[2020.04.18-14.59.37:187][960]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2020.04.18-14.59.48:087][825]BlueprintLog: New page: Compile StorageWidget
+[2020.04.18-14.59.48:192][825]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2020.04.18-15.00.16:937][194]BlueprintLog: New page: Compile StorageWidget
+[2020.04.18-15.00.17:043][194]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2020.04.18-15.00.17:769][229]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/StorageWidgetF0B8350145114585E0640B8AA16D8772.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Blueprints/Inventory/Widgets/Storage/StorageWidget.uasset'
+[2020.04.18-15.00.17:785][229]AssetCheck: New page: Asset Save: StorageWidget
+[2020.04.18-15.00.17:785][229]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventory/Widgets/Storage/StorageWidget.StorageWidget
+[2020.04.18-15.01.12:717][806]LogEditorTransaction: Undo Move Node
+[2020.04.18-15.01.13:393][825]LogEditorTransaction: Undo Move Node
+[2020.04.18-15.01.13:960][857]LogEditorTransaction: Undo Move Node
+[2020.04.18-15.01.14:475][886]LogEditorTransaction: Undo Move Nodes
+[2020.04.18-15.01.15:427][939]LogEditorTransaction: Undo Paste clipboard contents
+[2020.04.18-15.01.46:388][170]BlueprintLog: New page: Compile StorageWidget
+[2020.04.18-15.01.46:412][170]LogBlueprint: Error: [Compiler StorageWidget] This blueprint (self) is not a StorageSlot_C, therefore ' Target ' must have a connection.
+[2020.04.18-15.01.46:412][170]LogBlueprint: Error: [Compiler StorageWidget] This blueprint (self) is not a StorageSlot_C, therefore ' Target ' must have a connection.
+[2020.04.18-15.01.46:413][170]LogBlueprint: Error: [Compiler StorageWidget] Variable node  Get SlotIndex  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.04.18-15.01.46:500][170]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2020.04.18-15.02.37:146][661]BlueprintLog: New page: Compile StorageWidget
+[2020.04.18-15.02.37:171][661]LogBlueprint: Error: [Compiler StorageWidget] This blueprint (self) is not a StorageSlot_C, therefore ' Target ' must have a connection.
+[2020.04.18-15.02.37:251][661]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2020.04.18-15.03.27:712][358]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2020.04.18-15.03.28:163][358]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/ThirdPersonExampleMap_Auto481AF5CB84A0AC68F4A610093A8C42051.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2020.04.18-15.03.28:165][358]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.539
+[2020.04.18-15.03.28:165][358]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.539
+[2020.04.18-15.03.28:166][358]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inventory/Widgets/Storage/StorageWidget] ([1] browsable assets)...
+[2020.04.18-15.03.28:166][358]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventory/Widgets/Storage/StorageWidget]
+[2020.04.18-15.03.28:215][358]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/StorageWidget_Auto41964125E48469FAB4BD8228A5B265462.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Autosaves/Game/Blueprints/Inventory/Widgets/Storage/StorageWidget_Auto4.uasset'
+[2020.04.18-15.03.28:216][358]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inventory/Widgets/Storage/StorageSlot] ([1] browsable assets)...
+[2020.04.18-15.03.28:216][358]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventory/Widgets/Storage/StorageSlot]
+[2020.04.18-15.03.28:284][358]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/StorageSlot_Auto4E490BCE446DA7440BAFF4085C8FC5319.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Autosaves/Game/Blueprints/Inventory/Widgets/Storage/StorageSlot_Auto4.uasset'
+[2020.04.18-15.03.28:285][358]LogFileHelpers: Auto-saving content packages took 0.120
+[2020.04.18-15.05.18:370][349]BlueprintLog: New page: Compile StorageWidget
+[2020.04.18-15.05.18:395][349]LogBlueprint: Error: [Compiler StorageWidget] This blueprint (self) is not a StorageSlot_C, therefore ' Target ' must have a connection.
+[2020.04.18-15.05.18:479][349]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2020.04.18-15.05.32:690][924]BlueprintLog: New page: Compile StorageWidget
+[2020.04.18-15.05.32:800][924]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2020.04.18-15.05.33:466][956]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/StorageWidget1CF099F34CD11BA0B864DF97C6403AE0.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Blueprints/Inventory/Widgets/Storage/StorageWidget.uasset'
+[2020.04.18-15.05.33:482][956]AssetCheck: New page: Asset Save: StorageWidget
+[2020.04.18-15.05.33:483][956]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventory/Widgets/Storage/StorageWidget.StorageWidget
+[2020.04.18-15.06.01:582][165]BlueprintLog: New page: Compile StorageWidget
+[2020.04.18-15.06.01:696][165]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2020.04.18-15.07.38:913][399]BlueprintLog: New page: Compile StorageSlot
+[2020.04.18-15.07.39:009][399]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2020.04.18-15.09.58:328][798]BlueprintLog: New page: Compile StorageSlot
+[2020.04.18-15.09.58:442][798]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2020.04.18-15.10.55:238][492]BlueprintLog: New page: Compile StorageSlot
+[2020.04.18-15.10.55:328][492]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2020.04.18-15.11.45:919][859]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.18-15.11.56:125][629]BlueprintLog: New page: Compile StorageSlot
+[2020.04.18-15.11.56:208][629]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2020.04.18-15.12.07:436][366]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Inventory/DragAndDrop/StorageSlotDrag.StorageSlotDrag
+[2020.04.18-15.12.13:774][756]BlueprintLog: New page: Compile StorageSlotDrag
+[2020.04.18-15.12.13:834][756]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2020.04.18-15.12.16:524][923]BlueprintLog: New page: Compile StorageSlot
+[2020.04.18-15.12.16:608][923]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2020.04.18-15.12.18:659][ 55]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.18-15.12.28:616][758]BlueprintLog: New page: Compile StorageSlot
+[2020.04.18-15.12.28:703][758]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2020.04.18-15.13.04:136][563]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.18-15.13.38:738][488]LogUObjectHash: Compacting FUObjectHashTables data took   7.41ms
+[2020.04.18-15.13.38:739][488]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.080
+[2020.04.18-15.13.38:740][488]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inventory/Widgets/Storage/StorageWidget] ([1] browsable assets)...
+[2020.04.18-15.13.38:740][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventory/Widgets/Storage/StorageWidget]
+[2020.04.18-15.13.38:800][488]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/StorageWidget_Auto52616CCDD451C69212996BA94318F4D3A.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Autosaves/Game/Blueprints/Inventory/Widgets/Storage/StorageWidget_Auto5.uasset'
+[2020.04.18-15.13.38:801][488]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inventory/Widgets/Storage/StorageSlot] ([1] browsable assets)...
+[2020.04.18-15.13.38:801][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventory/Widgets/Storage/StorageSlot]
+[2020.04.18-15.13.38:869][488]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/StorageSlot_Auto51EBEDFC844DEDB0B26B930B86BC3C43D.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Autosaves/Game/Blueprints/Inventory/Widgets/Storage/StorageSlot_Auto5.uasset'
+[2020.04.18-15.13.38:900][488]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inventory/DragAndDrop/StorageSlotDrag] ([1] browsable assets)...
+[2020.04.18-15.13.38:900][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventory/DragAndDrop/StorageSlotDrag]
+[2020.04.18-15.13.38:919][488]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/StorageSlotDrag_Auto5D35B7D514A7BD58F4F653B8F33A5C72A.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Autosaves/Game/Blueprints/Inventory/DragAndDrop/StorageSlotDrag_Auto5.uasset'
+[2020.04.18-15.13.38:953][488]LogFileHelpers: Auto-saving content packages took 0.214
+[2020.04.18-15.16.21:454][112]BlueprintLog: New page: Compile StorageSlot
+[2020.04.18-15.16.21:548][112]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2020.04.18-15.16.51:935][268]BlueprintLog: New page: Compile StorageSlot
+[2020.04.18-15.16.52:027][268]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2020.04.18-15.18.17:022][305]BlueprintLog: New page: Compile StorageSlot
+[2020.04.18-15.18.17:146][305]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2020.04.18-15.19.46:620][112]LogHttp: Warning: 0000000115CF5A80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B414A382E-4DFB-2F80-AF54-818BB7494B20%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=03ca4a264427f87e9c1c818cb8eb7056%7Cdeb4b5c032ee4b9f9a98b57b23cc1299%7C78cf3706-c82f-4c9a-ab7b-9bc9ad3207ba&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.04.18-15.19.46:620][112]LogHttp: Warning: 0000000115CF5A80: request failed, libcurl error: 0 (No error)
+[2020.04.18-15.19.46:620][112]LogHttp: Warning: 0000000115CF5A80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20bb7f70 [can pipeline])
+[2020.04.18-15.19.46:620][112]LogHttp: Warning: 0000000115CF5A80: libcurl info message cache 1 (Re-using existing connection! (#35) with host datarouter.ol.epicgames.com)
+[2020.04.18-15.19.46:620][112]LogHttp: Warning: 0000000115CF5A80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.213.183.93) port 443 (#35))
+[2020.04.18-15.19.46:620][112]LogHttp: Warning: 0000000115CF5A80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.04.18-15.19.46:620][112]LogHttp: Warning: 0000000115CF5A80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.04.18-15.19.46:620][112]LogHttp: Warning: 0000000115CF5A80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.04.18-15.19.46:620][112]LogHttp: Warning: 0000000115CF5A80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.04.18-15.19.46:620][112]LogHttp: Warning: 0000000115CF5A80: libcurl info message cache 7 (Closing connection 35)
+[2020.04.18-15.19.46:620][112]LogHttp: Warning: 0000000115CF5A80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.04.18-15.19.46:620][112]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B414A382E-4DFB-2F80-AF54-818BB7494B20%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=03ca4a264427f87e9c1c818cb8eb7056%7Cdeb4b5c032ee4b9f9a98b57b23cc1299%7C78cf3706-c82f-4c9a-ab7b-9bc9ad3207ba&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.18-15.20.24:867][289]BlueprintLog: New page: Compile StorageSlot
+[2020.04.18-15.20.24:972][289]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2020.04.18-15.20.25:642][314]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/StorageSlot6A2B542E4747D2B4E74C03916559532A.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Blueprints/Inventory/Widgets/Storage/StorageSlot.uasset'
+[2020.04.18-15.20.25:676][314]AssetCheck: New page: Asset Save: StorageSlot
+[2020.04.18-15.20.25:677][314]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventory/Widgets/Storage/StorageSlot.StorageSlot
+[2020.04.18-15.20.31:248][667]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Inventory/Widgets/InventorySlot.InventorySlot
+[2020.04.18-15.21.36:287][ 17]BlueprintLog: New page: Compile InventorySlot
+[2020.04.18-15.21.36:409][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2020.04.18-15.22.57:161][ 42]BlueprintLog: New page: Compile InventorySlot
+[2020.04.18-15.22.57:282][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2020.04.18-15.24.09:089][612]BlueprintLog: New page: Compile InventorySlot
+[2020.04.18-15.24.09:229][612]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2020.04.18-15.24.35:552][844]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2020.04.18-15.24.35:552][844]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.057
+[2020.04.18-15.24.35:553][844]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inventory/Widgets/InventorySlot] ([1] browsable assets)...
+[2020.04.18-15.24.35:553][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventory/Widgets/InventorySlot]
+[2020.04.18-15.24.35:648][844]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/InventorySlot_Auto6CE0E11EA4D5F83CF1C238E9C2ED22993.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Autosaves/Game/Blueprints/Inventory/Widgets/InventorySlot_Auto6.uasset'
+[2020.04.18-15.24.35:650][844]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inventory/Widgets/Storage/StorageWidget] ([1] browsable assets)...
+[2020.04.18-15.24.35:650][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventory/Widgets/Storage/StorageWidget]
+[2020.04.18-15.24.35:702][844]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/StorageWidget_Auto63DB9C6E4488C94F773578B9976C2F65F.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Autosaves/Game/Blueprints/Inventory/Widgets/Storage/StorageWidget_Auto6.uasset'
+[2020.04.18-15.24.35:703][844]LogFileHelpers: Auto-saving content packages took 0.151
+[2020.04.18-15.33.55:622][684]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.18-15.34.36:760][ 27]BlueprintLog: New page: Compile BP_Chest
+[2020.04.18-15.34.37:232][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2020.04.18-15.34.50:431][783]BlueprintLog: New page: Compile BP_Storage
+[2020.04.18-15.34.50:965][783]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2020.04.18-15.34.53:427][935]BlueprintLog: New page: Compile BP_Chest
+[2020.04.18-15.34.53:846][935]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2020.04.18-15.34.55:612][ 52]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.18-15.35.14:480][612]BlueprintLog: New page: Compile BP_Chest
+[2020.04.18-15.35.14:895][612]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2020.04.18-15.37.22:923][175]BlueprintLog: New page: Compile BP_Chest
+[2020.04.18-15.37.23:359][175]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2020.04.18-15.39.23:486][ 60]BlueprintLog: New page: Compile BP_Chest
+[2020.04.18-15.39.23:963][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   6.82ms
+[2020.04.18-15.39.49:134][273]LogEditorTransaction: Undo Add Node
+[2020.04.18-15.40.16:131][502]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2020.04.18-15.40.16:649][502]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/ThirdPersonExampleMap_Auto702F1F810478DCBA346057584F1B082D7.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2020.04.18-15.40.16:651][502]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.582
+[2020.04.18-15.40.16:651][502]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.582
+[2020.04.18-15.40.16:652][502]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inventory/Widgets/InventorySlot] ([1] browsable assets)...
+[2020.04.18-15.40.16:652][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventory/Widgets/InventorySlot]
+[2020.04.18-15.40.16:731][502]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/InventorySlot_Auto707E39EBE4B8FC306973B098DDBC48865.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Autosaves/Game/Blueprints/Inventory/Widgets/InventorySlot_Auto7.uasset'
+[2020.04.18-15.40.16:745][502]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inventory/Widgets/Storage/StorageWidget] ([1] browsable assets)...
+[2020.04.18-15.40.16:745][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventory/Widgets/Storage/StorageWidget]
+[2020.04.18-15.40.16:812][502]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/StorageWidget_Auto714C911054FAB86902E896F94C08E9A68.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Autosaves/Game/Blueprints/Inventory/Widgets/Storage/StorageWidget_Auto7.uasset'
+[2020.04.18-15.40.16:813][502]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inventory/BP_Storage] ([1] browsable assets)...
+[2020.04.18-15.40.16:813][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventory/BP_Storage]
+[2020.04.18-15.40.17:074][502]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/BP_Storage_Auto7037AFFF7481CE24D820B5F851697868B.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Autosaves/Game/Blueprints/Inventory/BP_Storage_Auto7.uasset'
+[2020.04.18-15.40.17:112][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Inventory/ItemClasses/BP_Chest] ([1] browsable assets)...
+[2020.04.18-15.40.17:157][502]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Inventory/ItemClasses/BP_Chest.BP_Chest]
+[2020.04.18-15.40.17:157][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventory/ItemClasses/BP_Chest]
+[2020.04.18-15.40.17:252][502]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/BP_Chest_Auto74378523C447036F713A86F8790A2A76B.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/Autosaves/Game/Blueprints/Inventory/ItemClasses/BP_Chest_Auto7.uasset'
+[2020.04.18-15.40.17:253][502]LogFileHelpers: Auto-saving content packages took 0.602
+[2020.04.18-15.41.15:111][152]LogEditorTransaction: Undo Add Node
+[2020.04.18-15.42.19:406][ 35]BlueprintLog: New page: Compile BP_Chest
+[2020.04.18-15.42.19:413][ 35]LogBlueprint: Error: [Compiler BP_Chest] This blueprint (self) is not a BP_Inventory_C, therefore ' Target ' must have a connection.
+[2020.04.18-15.42.19:838][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2020.04.18-15.42.25:561][395]BlueprintLog: New page: Compile BP_Chest
+[2020.04.18-15.42.25:985][395]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2020.04.18-15.42.50:712][756]BlueprintLog: New page: Compile BP_Chest
+[2020.04.18-15.42.51:156][756]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2020.04.18-15.43.17:688][261]BlueprintLog: New page: Compile BP_Chest
+[2020.04.18-15.43.18:188][261]LogUObjectHash: Compacting FUObjectHashTables data took   6.94ms
+[2020.04.18-15.45.18:503][558]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2020.04.18-15.45.18:697][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.04.18-15.45.19:116][558]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/ThirdPersonExampleMap32FFAD604031999F0F4641AD654F6ED4.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.18-15.45.20:143][558]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.555
+[2020.04.18-15.45.20:226][558]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/InventorySlot313CE2614E3734DD13446D810FF77077.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Blueprints/Inventory/Widgets/InventorySlot.uasset'
+[2020.04.18-15.45.20:370][558]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/StorageWidget7641664040E43186EEB59A93513998F3.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Blueprints/Inventory/Widgets/Storage/StorageWidget.uasset'
+[2020.04.18-15.45.20:503][558]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/BP_StorageE94E8B5B443B52694DDD1BAE17D5F789.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Blueprints/Inventory/BP_Storage.uasset'
+[2020.04.18-15.45.20:574][558]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/BP_Chest1FF5DB654BB273D674C6589EE4576585.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Blueprints/Inventory/ItemClasses/BP_Chest.uasset'
+[2020.04.18-15.45.20:584][558]LogSavePackage: Moving '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Saved/StorageSlotDrag2C4ADBC742382A656FFAF3885F98F248.tmp' to '../../../../../../Users/Богдан/Documents/GitHub/SurvivalGame/Survival_Forest/Content/Blueprints/Inventory/DragAndDrop/StorageSlotDrag.uasset'
+[2020.04.18-15.45.20:631][558]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.18-15.45.20:631][558]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.04.18-15.45.20:631][558]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventory/Widgets/InventorySlot.InventorySlot
+[2020.04.18-15.45.20:631][558]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventory/Widgets/Storage/StorageWidget.StorageWidget
+[2020.04.18-15.45.20:631][558]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Inventory/BP_Storage.BP_Storage
+[2020.04.18-15.45.20:631][558]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Inventory/ItemClasses/BP_Chest.BP_Chest
+[2020.04.18-15.45.20:631][558]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Inventory/DragAndDrop/StorageSlotDrag.StorageSlotDrag
+[2020.04.18-15.45.25:078][872]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.04.18-15.45.34:812][355]LogUObjectArray: Warning: Other object in slot
+[2020.04.18-15.45.34:869][355]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.18-15.45.43:202][355]LogStats: FPlatformStackWalk::StackWalkAndDump -  8.305 s
+[2020.04.18-15.45.43:202][355]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.18-15.45.43:202][355]LogOutputDevice: Error: 
+[2020.04.18-15.45.43:202][355]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2020.04.18-15.45.43:202][355]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.04.18-15.45.43:202][355]LogOutputDevice: Error: Stack: 
+[2020.04.18-15.45.43:202][355]LogOutputDevice: Error: [Callstack] 0x000007fec3327b69 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.18-15.45.43:202][355]LogOutputDevice: Error: [Callstack] 0x000007fec2b3678a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.18-15.45.43:202][355]LogOutputDevice: Error: [Callstack] 0x000007fec2b4409f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.18-15.45.43:202][355]LogOutputDevice: Error: [Callstack] 0x000007febf7ac5b1 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.04.18-15.45.43:202][355]LogOutputDevice: Error: [Callstack] 0x000007febfe2977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.18-15.45.43:202][355]LogOutputDevice: Error: [Callstack] 0x000007febfde1647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.18-15.45.43:203][355]LogOutputDevice: Error: [Callstack] 0x000007fec930b144 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.18-15.45.43:203][355]LogOutputDevice: Error: [Callstack] 0x000007fec94fdc63 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.18-15.45.43:203][355]LogOutputDevice: Error: [Callstack] 0x000007fec93560b3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.18-15.45.43:203][355]LogOutputDevice: Error: [Callstack] 0x000007fec93346f9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.18-15.45.43:203][355]LogOutputDevice: Error: [Callstack] 0x000007fec9328ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.18-15.45.43:203][355]LogOutputDevice: Error: [Callstack] 0x000007fee8c84ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.18-15.45.43:203][355]LogOutputDevice: Error: [Callstack] 0x000007fee8c7242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.18-15.45.43:203][355]LogOutputDevice: Error: [Callstack] 0x000007fee8c87195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.18-15.45.43:203][355]LogOutputDevice: Error: [Callstack] 0x000007fee8c6ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.18-15.45.43:203][355]LogOutputDevice: Error: [Callstack] 0x0000000076e79ac1 USER32.dll!UnknownFunction []
+[2020.04.18-15.45.43:203][355]LogOutputDevice: Error: [Callstack] 0x0000000076e797de USER32.dll!UnknownFunction []
+[2020.04.18-15.45.43:203][355]LogOutputDevice: Error: [Callstack] 0x000007fee8c88699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.18-15.45.43:203][355]LogOutputDevice: Error: [Callstack] 0x000000013f906db0 UE4Editor.exe!UnknownFunction []
+[2020.04.18-15.45.43:203][355]LogOutputDevice: Error: [Callstack] 0x000000013f91c3ec UE4Editor.exe!UnknownFunction []
+[2020.04.18-15.45.43:203][355]LogOutputDevice: Error: [Callstack] 0x000000013f91c4ca UE4Editor.exe!UnknownFunction []
+[2020.04.18-15.45.43:203][355]LogOutputDevice: Error: [Callstack] 0x000000013f92ceae UE4Editor.exe!UnknownFunction []
+[2020.04.18-15.45.43:203][355]LogOutputDevice: Error: [Callstack] 0x000000013f92fcbe UE4Editor.exe!UnknownFunction []
+[2020.04.18-15.45.43:203][355]LogOutputDevice: Error: [Callstack] 0x0000000076d5556d kernel32.dll!UnknownFunction []
+[2020.04.18-15.45.43:203][355]LogOutputDevice: Error: [Callstack] 0x0000000076fb372d ntdll.dll!UnknownFunction []
+[2020.04.18-15.45.43:203][355]LogOutputDevice: Error: 
+[2020.04.18-15.45.43:602][355]LogStats:                SubmitErrorReport -  0.000 s
